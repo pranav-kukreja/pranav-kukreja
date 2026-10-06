@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 ## 🚀 Featured projects
 | Project | What it does | Tech |
 |---|---|---|
-| [**AI Career Twin**](https://ai-twin-0wf3.onrender.com/) | Talk about my career with my Twin | Python, OpenAI agents |
-| [**Deep Research Agent**](https://github.com/pranav-kukreja) | One line on the problem it solves | LangChain, ... |
+| [**AI Career Twin**](https://ai-twin-0wf3.onrender.com/) | Talk about my career with my Twin | Python, OpenAI agents, Gemini API |
+| [**Deep Research Agent**](https://github.com/pranav-kukreja) | Run deep research on any topic using LLMs (grounded by web search)  | Python, DuckDuckGo Web Search, OpenAI Agents, Gemini API
 <!-- | [**Project 3**](link) | One line on the problem it solves | ... | -->
 
 ## 📊 GitHub stats
